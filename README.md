@@ -1,1 +1,1 @@
-# new-gplatform
+# NuxtMap
